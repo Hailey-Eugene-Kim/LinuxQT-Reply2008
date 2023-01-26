@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/button_blue_play.png</file>
+        <file>images/button_grey_play.png</file>
+        <file>images/dotori.png</file>
+        <file>images/exit.png</file>
+        <file>images/list.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/volumeup.png</file>
+        <file>images/cover.png</file>
+        <file>images/skip.png</file>
+        <file>images/volumedown.png</file>
+    </qresource>
+</RCC>
